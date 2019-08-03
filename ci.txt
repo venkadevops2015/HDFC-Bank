@@ -1,0 +1,14 @@
+ci process is a developemnt prctice where set of developers  do changes to their scm regulaly and push their changes into a source code repository like git aftere this they is going be an automated process which picks all the changes commited by the developer and it runs this code through some verification  like this 
+
+it compile the code 
+
+it  exicuted test cases against the code 
+
+it also perform static cocde analysisi like using sonarqube by just checking the source code comesout with an reports...
+
+how many blockers
+
+how many errors 
+how many worrings 
+ then if everything goeswell its going to create soft package which is used for deployment 
+if something goes wrong this automated process send a some kind notification back to the evelopers.
